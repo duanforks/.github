@@ -1,2 +1,0 @@
-# .github
-for public README
